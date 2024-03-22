@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shseam13
 - 👀 I’m interested in coding algorithms
 - 🌱 I’m currently learning python django
-- 💞️ I’m looking to collaborate on market basket analysis using machine learning.
+- 💞️ I’m looking to collaborate on any project Artificial Intelligence and Machine Learning.
 - 📫 How to reach me message me on gmail -- shajjadhossainseam13@gmail.com
 
 - now I am learning JavaScript.
